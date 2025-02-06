@@ -3,7 +3,7 @@
 ## Overview
 NotyHelper is a notification dispatching application designed to help users create, manage, and share predefined notifications efficiently. It provides an intuitive way for users to stay updated and communicate important messages seamlessly.
 
-**Note:** This application is designed to work exclusively on **macOS**.
+**Note:** This application is designed to work exclusively on **macOS** and currently functions only **locally**, but future updates will introduce remote functionality.
 
 ## Features
 - **User Authentication**: Secure account creation and login system.
@@ -51,6 +51,7 @@ Additionally, I have incorporated concepts from my **Computer Networks** courses
 - Implementing a database for better data management.
 - Adding a GUI for a more user-friendly interface.
 - Introducing mobile notifications and email alerts.
+- Expanding functionality to support **remote notifications** instead of just local use.
 
 ## Contact
 If you're interested in my work or have any questions, feel free to reach out:
